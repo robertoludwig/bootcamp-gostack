@@ -1,0 +1,8 @@
+node_modules/
+tmp/uploads/*
+.env
+.editorconfig
+.prettierrc
+.sequelizerc
+.eslintrc.js
+yarn.lock
